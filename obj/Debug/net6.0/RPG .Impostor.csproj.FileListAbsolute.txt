@@ -1,0 +1,15 @@
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\RPG .Impostor\bin\Debug\net6.0\RPG .Impostor.exe
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\RPG .Impostor\bin\Debug\net6.0\RPG .Impostor.deps.json
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\RPG .Impostor\bin\Debug\net6.0\RPG .Impostor.runtimeconfig.json
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\RPG .Impostor\bin\Debug\net6.0\RPG .Impostor.dll
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\RPG .Impostor\bin\Debug\net6.0\RPG .Impostor.pdb
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\RPG .Impostor\obj\Debug\net6.0\RPG .Impostor.csproj.AssemblyReference.cache
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\RPG .Impostor\obj\Debug\net6.0\RPG .Impostor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\RPG .Impostor\obj\Debug\net6.0\RPG .Impostor.AssemblyInfoInputs.cache
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\RPG .Impostor\obj\Debug\net6.0\RPG .Impostor.AssemblyInfo.cs
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\RPG .Impostor\obj\Debug\net6.0\RPG .Impostor.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\RPG .Impostor\obj\Debug\net6.0\RPG .Impostor.dll
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\RPG .Impostor\obj\Debug\net6.0\refint\RPG .Impostor.dll
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\RPG .Impostor\obj\Debug\net6.0\RPG .Impostor.pdb
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\RPG .Impostor\obj\Debug\net6.0\RPG .Impostor.genruntimeconfig.cache
+C:\Users\Daniel\OneDrive\Área de Trabalho\Dani Devs\Projetos .Dio\CSharp\RPG .Impostor\obj\Debug\net6.0\ref\RPG .Impostor.dll
